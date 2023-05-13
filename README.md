@@ -5,6 +5,7 @@
     <a href="https://www.instagram.com/ahmedkhalifa_14/?fbclid=IwAR2NJAqy2E-12zRcj_W4WSBQsvdzD2SaJ7ltlIN73EbDvHr_Wg6yoe_ASQ4"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
         <a href="https://www.facebook.com/profile.php?id=100035688339880&sk=map"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
   </p>
+Hello! I'm a junior Android developer with a strong interest in creating mobile applications that are both functional and beautiful. I have experience working with Java and Kotlin, as well as various Android libraries and frameworks. I'm constantly learning and exploring new technologies to improve my skills and keep up with industry trends. I'm passionate about solving complex problems and delivering high-quality solutions. Let's connect and build something great together!
 
 
 <!--
