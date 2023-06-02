@@ -7,6 +7,10 @@
   </p>
 Hello! I'm a junior Android developer with a strong interest in creating mobile applications that are both functional and beautiful. I have experience working with Java and Kotlin, as well as various Android libraries and frameworks.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedkhalifa14&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhalifa14&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalifa14&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
 **ahmedkhalifa14/ahmedkhalifa14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
